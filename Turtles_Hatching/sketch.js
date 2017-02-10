@@ -7,7 +7,7 @@ var x = 460;
 var y = 500;
 var turtle;
 var turtleWidth = 625;
-var aspectRatio = 720 / 625
+var aspectRatio = 720 / 625;
 
 // This function loads the saved turtle image. 
 function preload() {

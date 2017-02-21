@@ -1,6 +1,6 @@
 //When we add the background function, the pixels return to its original state, the background color. When we remove the function, the pixels remain the color it became so it looks like the robot is dragging across the screen.
 
-function setup() {
+function //setup() {
   createCanvas(720, 480);
   smooth();
   strokeWeight(2); //Sets thickness of line to 2

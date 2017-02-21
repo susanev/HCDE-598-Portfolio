@@ -15,5 +15,5 @@ p, a {
 }
 
 input {
-  top: 175px;
+  top: 175px !important;
 }

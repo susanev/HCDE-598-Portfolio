@@ -1,0 +1,15 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  width: 700px;
+  margin: 40px auto;
+}
+
+h1 {
+  color: #15768c;
+  font-weight: 700;
+}
+
+p, a {
+  color: #778284;
+  font-weight: 400;
+}

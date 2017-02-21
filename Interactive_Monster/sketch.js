@@ -15,7 +15,7 @@ function setup() {
   createCanvas(1200, 700); // This determines the size of the canvas. 
   // The code below creates a button on the page that the user will click to change what the monster does.
   button = createButton("SWITCH MONSTER'S ACTIONS"); // This is what the button will display. 
-  button.position(50, 50); // This is where the button will be located.
+  button.position(x - 400, y - 50); // This is where the button will be located.
   button.size(180, 50) // This is the size of the button.
   button.mousePressed(reset); // This determines what the button will initiate once pressed. 
 }

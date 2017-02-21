@@ -13,3 +13,7 @@ p, a {
   color: #778284;
   font-weight: 400;
 }
+
+input {
+  top: 175px;
+}

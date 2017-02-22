@@ -14,7 +14,12 @@ p, a {
   font-weight: 400;
 }
 
-<style> input = position:relative; left: 1000px; bottom: 700px </style>
+input {
+  position: relative;
+  margin-left: 1000px;
+  margin-bottom: 700px;
+}
+
 
 /*input {*/
 /*  margin: 175px auto; !important;*/

@@ -14,13 +14,13 @@ p, a {
   font-weight: 400;
 }
 
-/*input {*/
-/*  position: relative;*/
-/*  width: 1300px;*/
-/*  margin: 40px auto;*/
-/*}*/
-
-
 input {
-  margin: 175px auto; !important;
+  position: relative;
+  margin-left: 1000px;
+  margin-bottom: 650px;
 }
+
+
+/*input {*/
+/*  margin: 175px auto; !important;*/
+/*}*/

@@ -14,6 +14,8 @@ p, a {
   font-weight: 400;
 }
 
-input {
-  margin: 175px auto; !important;
-}
+<style> input = position:relative; left: 1000px; bottom: 700px </style>
+
+/*input {*/
+/*  margin: 175px auto; !important;*/
+/*}*/

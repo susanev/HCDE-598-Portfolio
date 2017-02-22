@@ -24,3 +24,10 @@ p, a {
 /*input {*/
 /*  margin: 175px auto; !important;*/
 /*}*/
+
+input {
+  position: relative;
+  left: 1000px;
+  bottom: 650px;
+  !important;
+}

@@ -16,8 +16,8 @@ p, a {
 
 input {
   position: relative;
-  margin-left: 1000px;
-  margin-bottom: 700px;
+  width: 1300px;
+  margin: 40px auto;
 }
 
 

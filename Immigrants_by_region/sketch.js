@@ -30,7 +30,6 @@ function preload() { // This loads the table.
 
 function setup() {
   createCanvas(1200, 700); // Creates a canvas of designated size. 
-  canv.position(100, 100);
   ySlider = createSlider(2013, 2015, 2013); // Draws a slider with starting value of 2014 
   // ending value of 2015.
 

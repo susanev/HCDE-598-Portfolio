@@ -18,6 +18,8 @@ p, a {
 
 .y-slider {
 	position: relative;
+	left: 1000;
+	top: -655;
 }
 
 

@@ -32,7 +32,7 @@ function setup() {
   createCanvas(1200, 700); // Creates a canvas of designated size. 
   ySlider = createSlider(2013, 2015, 2013); // Draws a slider with starting value of 2014 
   // ending value of 2015.
-  ySlider.position(1000, 265); // Identifies where the slider should be drawn.
+  ySlider.position(1135, 265); // Identifies where the slider should be drawn.
   var colCount = 6; // Column count set at 6 since there are 6 regions
   immigrantData = []; // This makes the immigrantData array
   for (var i = 0; i < colCount; i++) { // This loop forms the array.  

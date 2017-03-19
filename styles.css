@@ -16,6 +16,10 @@ p, a {
   line-height: 1.5;
 }
 
+.y-slider {
+	position: relative;
+}
+
 
 /*input {*/
 /*  position: relative;*/

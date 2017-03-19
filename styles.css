@@ -2,6 +2,7 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   width: 1300px;
   margin: 50px auto;
+  position: relative;
 }
 
 h1 {
@@ -15,6 +16,8 @@ p, a {
   text-decoration: none;
   line-height: 1.5;
 }
+
+
 
 /*input {*/
 /*  position: relative;*/
